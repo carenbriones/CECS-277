@@ -1,0 +1,50 @@
+Nominal resistance:  230000
+Actual resistance:  230649
+Tolerance:  0.1
+[red, orange, yellow, silver]
+
+Nominal resistance:  15000000
+Actual resistance:  15725251
+Tolerance:  0.05
+[brown, green, blue, gold]
+
+Nominal resistance:  69
+Actual resistance:  70
+Tolerance:  0.05
+[blue, white, black, gold]
+
+Nominal resistance:  3600000
+Actual resistance:  3699685
+Tolerance:  0.05
+[orange, blue, green, gold]
+
+Nominal resistance:  5500000
+Actual resistance:  4988510
+Tolerance:  0.1
+[green, green, green, silver]
+
+Nominal resistance:  420000000
+Actual resistance:  403630737
+Tolerance:  0.05
+[yellow, red, violet, gold]
+
+Nominal resistance:  8300000
+Actual resistance:  8742044
+Tolerance:  0.1
+[gray, orange, green, silver]
+
+Nominal resistance:  7900
+Actual resistance:  8209
+Tolerance:  0.05
+[violet, white, red, gold]
+
+Nominal resistance:  400000000
+Actual resistance:  395477728
+Tolerance:  0.1
+[yellow, black, violet, silver]
+
+Nominal resistance:  560000000
+Actual resistance:  565373233
+Tolerance:  0.05
+[green, blue, violet, gold]
+

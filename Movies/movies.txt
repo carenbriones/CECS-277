@@ -1,0 +1,31 @@
+2001: A Space Odyssey/1968/G/160/8.3/
+Casablanca/1942/PG/102/8.6/
+Citizen Kane/1941/PG/119/8.4/
+E.T. the Extra-Terrestrial/1982/PG/115/7.9/
+Forrest Gump/1994/PG-13/142/8.8/Tom Hanks
+Godfather, The/1972/R/175/9.2/
+Gone with the Wind/1939/PG/238/8.2/Clark Gable
+It Happened One Night/1934/PG/105/8.3/Clark Gable
+It's a Wonderful Life/1946/G/130/8.7/
+Jaws/1975/PG/124/8.1/
+Lawrence of Arabia/1962/PG/216/8.4/
+Lord of the Rings, The/2001/PG-13/178/8.8/
+Man on Wire/2008/PG-13/94/7.9/
+Movie A/1990/PG/123/8.0/Harrison Ford
+One Flew Over the Cuckoo’s Nest/1975/R/133/8.8/
+Psycho/1960/PG-13/109/8.6/
+Pulp Fiction/1994/R/154/9.0/Bruce Willis
+Raging Bull/1980/R/129/8.3/
+Raiders of the Lost Ark/1981/PG/115/8.6/Harrison Ford
+Saving Private Ryan/1998/R/169/8.6/
+Schindler's List/1993/R/195/8.9/
+Shawshank Redemption, The/1994/R/142/9.3/Tim Robbins
+Singin' in the Rain/1952/G/103/8.4/
+Sound of Music, The/1965/G/174/8.0/
+Star Wars/1977/PG/121/8.7/Mark Hamill,Carrie Fisher,Harrison Ford
+Sunset Blvd./1950/PG/110/8.6/
+The Good, the Bad and the Ugly/1966/PG/161/9.0/
+The Treasure of the Sierra Madre/1948/PG/126/8.4/
+The Wizard of Oz/1939/G/102/8.1/Judy Garland
+Thor/2011/PG-13/115/7.0/
+Titanic/1997/PG-13/194/7.7/
